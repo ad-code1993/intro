@@ -4,6 +4,31 @@
   "highlightText": "Journey",
   "experiences": [
     {
+  "company": "Upwork",
+  "role": "AI & Backend Engineer (Freelance)",
+  "period": "Aug 2024 – Present",
+  "location": "Remote",
+  "description": [
+    "Designed and deployed production-ready AI agents for task automation, enhancing operational workflows for international clients",
+    "Optimized Django-based web applications, improving application speed by 30% and increasing user engagement by 20%",
+    "Integrated LangChain and LlamaIndex with FastAPI to build scalable, high-throughput backend and content pipelines",
+    "Developed backend APIs and automation systems for AI-powered applications and workflow management"
+  ],
+  "technologies": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "LangChain",
+    "LlamaIndex",
+    "AI Agents",
+    "REST APIs",
+    "Automation",
+    "PostgreSQL",
+    "Backend Development"
+  ],
+  "current": true
+},
+    {
       "company": "Misikir",
       "role": "Backend Lead",
       "period": "Sep 2025 – Nov 2025",
