@@ -1,0 +1,16 @@
+{
+  "brandDescription": "Building intelligent software solutions with AI and automation. Passionate about creating impactful technology.",
+  "footerLinks": [
+    { "label": "About", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "socialLinks": [
+    { "icon": "Github", "href": "https://github.com/ad-code1993", "label": "GitHub" },
+    { "icon": "Linkedin", "href": "https://linkedin.com/in/amanueldemirew", "label": "LinkedIn" },
+    { "icon": "Mail", "href": "mailto:amanueldemirew@gmail.com", "label": "Email" }
+  ]
+}

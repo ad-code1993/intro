@@ -1,0 +1,38 @@
+{
+  "sectionLabel": "What I Offer",
+  "headline": "Services &",
+  "highlightText": "Expertise",
+  "description": "Comprehensive development services to bring your ideas to life with cutting-edge technology and best practices.",
+  "services": [
+    {
+      "icon": "Brain",
+      "title": "AI Application Development",
+      "description": "Building intelligent applications powered by LLMs, RAG systems, and custom AI agents that automate complex tasks and provide intelligent insights.",
+      "features": ["Custom AI Agents", "RAG Systems", "LLM Integration", "Chatbots"]
+    },
+    {
+      "icon": "Server",
+      "title": "Backend Development",
+      "description": "Designing and implementing scalable, secure backend architectures using modern frameworks and best practices for high-performance applications.",
+      "features": ["API Design", "Database Architecture", "Microservices", "Security"]
+    },
+    {
+      "icon": "Globe",
+      "title": "Full-Stack Web Development",
+      "description": "Creating end-to-end web applications with modern technologies, responsive designs, and seamless user experiences across all devices.",
+      "features": ["Next.js/React", "Responsive Design", "Performance", "SEO"]
+    },
+    {
+      "icon": "Workflow",
+      "title": "Workflow Automation",
+      "description": "Streamlining business processes through intelligent automation, reducing manual work and increasing operational efficiency.",
+      "features": ["n8n Integration", "API Automation", "Process Design", "Data Pipelines"]
+    },
+    {
+      "icon": "Bot",
+      "title": "AI Agent Systems",
+      "description": "Developing autonomous multi-agent systems using CrewAI and similar frameworks for complex task orchestration and research automation.",
+      "features": ["Multi-Agent Systems", "Task Automation", "Research Agents", "CrewAI"]
+    }
+  ]
+}

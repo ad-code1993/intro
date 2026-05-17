@@ -1,0 +1,48 @@
+{
+  "sectionLabel": "Featured Work",
+  "headline": "Projects I've",
+  "highlightText": "Built",
+  "description": "A collection of AI-powered applications and systems showcasing innovative solutions in automation, machine learning, and full-stack development.",
+  "projects": [
+    {
+      "title": "AI Proposal Generator",
+      "description": "AI-powered proposal generation platform that automates the creation of professional business proposals using advanced AI agents and natural language processing.",
+      "image": "/projects/proposal-generator.png",
+      "logo": "logo.png",
+      "technologies": ["Python", "FastAPI", "Next.js", "AI Agents", "Pydantic AI"],
+      "github": "https://github.com/ad-code1993/ai-proposal-generator",
+      "demo": "#",
+      "featured": false
+    },
+    {
+      "title": "AI SRS Generator",
+      "description": "Generates comprehensive software requirement specifications documents using conversational AI, streamlining the documentation process for development teams.",
+      "image": "/projects/srs-generator.png",
+      "logo": "logo.png",
+      "technologies": ["FastAPI", "Pydantic AI", "LLMs", "React"],
+      "github": "https://github.com/ad-code1993/ai-srs-generator",
+      "demo": "#",
+      "featured": false
+    },
+    {
+      "title": "AI Learning Platform",
+      "description": "Transforms PDFs and documents into interactive learning materials including notes, quizzes, flashcards, and study guides using advanced RAG techniques.",
+      "image": "/projects/learning-platform.png",
+      "logo": "logo.png",
+      "technologies": ["LangChain", "LlamaIndex", "FastAPI", "Next.js", "Vector DB"],
+      "github": "https://github.com/ad-code1993/ai-learning-platform",
+      "demo": "#",
+      "featured": false
+    },
+    {
+      "title": "Multi-Agent AI System",
+      "description": "CrewAI-powered autonomous multi-agent research system capable of conducting complex research tasks, data analysis, and report generation.",
+      "image": "/projects/multi-agent.png",
+      "logo": "logo.png",
+      "technologies": ["CrewAI", "LangChain", "Gemini", "Python"],
+      "github": "https://github.com/ad-code1993/multi-agent-ai",
+      "demo": "#",
+      "featured": false
+    }
+  ]
+}

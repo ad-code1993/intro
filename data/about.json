@@ -1,0 +1,35 @@
+{
+  "sectionLabel": "About Me",
+  "headline": "Passionate About Building",
+  "highlightText": "Intelligent Solutions",
+  "bio": {
+    "name": "Amanuel Demirew",
+    "title": "Full-Stack Software Engineer & AI Developer",
+    "experience": "4+",
+    "description1": "I'm a Full-Stack Software Engineer and AI Developer with 4+ years of experience building AI-powered applications, automation systems, and scalable backend architectures that drive measurable business value.",
+    "description2": "Based in Addis Ababa, Ethiopia, I specialize in creating intelligent software solutions that leverage cutting-edge AI technologies including LangChain, LlamaIndex, and multi-agent systems. I architect solutions that balance innovation with production-grade reliability.",
+    "description3": "My passion lies in bridging the gap between complex AI capabilities and practical, user-friendly applications that solve real-world problems—turning advanced AI concepts into deployable, scalable systems."
+  },
+  "stats": [
+    {
+      "icon": "Calendar",
+      "value": "4+",
+      "label": "Years Experience"
+    },
+    {
+      "icon": "Award",
+      "value": "20+",
+      "label": "Certifications"
+    },
+    {
+      "icon": "Users",
+      "value": "1500+",
+      "label": "LinkedIn Followers"
+    },
+    {
+      "icon": "TrendingUp",
+      "value": "25%",
+      "label": "Performance Improvements"
+    }
+  ]
+}

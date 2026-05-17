@@ -1,0 +1,50 @@
+{
+  "sectionLabel": "Credentials",
+  "headline": "Certifications &",
+  "highlightText": "Achievements",
+  "description": "Continuous learning and professional development through industry-recognized certifications.",
+  "certifications": [
+    {
+      "title": "AI Fundamentals",
+      "issuer": "Udacity",
+      "date": "2024",
+      "badge": "",
+      "link": "#"
+    },
+    {
+      "title": "Big Data Foundations",
+      "issuer": "IBM",
+      "date": "2024",
+      "badge": "",
+      "link": "#"
+    },
+    {
+      "title": "LLM Application Development",
+      "issuer": "DeepLearning.AI",
+      "date": "2024",
+      "badge": "",
+      "link": "#"
+    },
+    {
+      "title": "Multi-Agent AI Systems",
+      "issuer": "CrewAI",
+      "date": "2024",
+      "badge": "",
+      "link": "#"
+    },
+    {
+      "title": "Python for Data Science",
+      "issuer": "IBM",
+      "date": "2023",
+      "badge": "",
+      "link": "#"
+    },
+    {
+      "title": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "date": "2023",
+      "badge": "",
+      "link": "#"
+    }
+  ]
+}

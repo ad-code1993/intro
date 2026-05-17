@@ -1,0 +1,37 @@
+{
+  "sectionLabel": "Get In Touch",
+  "headline": "Let's Work",
+  "highlightText": "Together",
+  "description": "Have a project in mind or want to discuss opportunities? I'd love to hear from you.",
+  "contactInfo": [
+    {
+      "icon": "Mail",
+      "label": "Email",
+      "value": "amanueldemirew@gmail.com",
+      "href": "mailto:amanueldemirew@gmail.com"
+    },
+    {
+      "icon": "MapPin",
+      "label": "Location",
+      "value": "Addis Ababa, Ethiopia",
+      "href": "#"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "Github",
+      "label": "GitHub",
+      "href": "https://github.com/ad-code1993"
+    },
+    {
+      "icon": "Linkedin",
+      "label": "LinkedIn",
+      "href": "https://linkedin.com/in/amanueldemirew"
+    },
+    {
+      "icon": "Globe",
+      "label": "Portfolio",
+      "href": "#"
+    }
+  ]
+}

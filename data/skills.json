@@ -1,0 +1,38 @@
+{
+  "sectionLabel": "Skills & Expertise",
+  "headline": "Technologies I",
+  "highlightText": "Work With",
+  "description": "A comprehensive toolkit spanning full-stack development, AI systems, and cloud infrastructure.",
+  "categories": [
+    {
+      "icon": "Server",
+      "title": "Backend Development",
+      "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "REST APIs", "GraphQL"],
+      "color": "from-blue-500 to-cyan-500"
+    },
+    {
+      "icon": "Layout",
+      "title": "Frontend Development",
+      "skills": ["Next.js", "React", "TypeScript", "Tailwind CSS", "HTML/CSS"],
+      "color": "from-purple-500 to-pink-500"
+    },
+    {
+      "icon": "Brain",
+      "title": "AI & Machine Learning",
+      "skills": ["LangChain", "LlamaIndex", "OpenAI", "Pydantic AI", "RAG", "Vector DBs"],
+      "color": "from-green-500 to-emerald-500"
+    },
+    {
+      "icon": "Cloud",
+      "title": "DevOps & Cloud",
+      "skills": ["Docker", "AWS", "Linux", "CI/CD", "GitHub Actions", "Nginx"],
+      "color": "from-orange-500 to-red-500"
+    },
+    {
+      "icon": "Workflow",
+      "title": "Automation",
+      "skills": ["n8n", "API Integration", "Workflow Design", "Process Automation"],
+      "color": "from-indigo-500 to-violet-500"
+    }
+  ]
+}

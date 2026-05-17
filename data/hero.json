@@ -1,0 +1,32 @@
+{
+  "status": {
+    "text": "Available for new opportunities",
+    "isActive": true
+  },
+  "headline": {
+    "part1": "Full-Stack Engineer",
+    "highlight1": "& AI Developer",
+    "part2": "Building",
+    "highlight2": "intelligent solutions"
+  },
+  "roles": [
+    "AI SYSTEMS ARCHITECT",
+    "BACKEND ENGINEER",
+    "AUTOMATION SPECIALIST"
+  ],
+  "description": "With 4+ years of experience, I build AI-powered applications and scalable backend architectures. Specializing in LangChain, LlamaIndex, multi-agent systems, and transforming complex AI capabilities into practical, user-friendly applications.",
+  "techStack": [
+    "Python",
+    "LangChain",
+    "LlamaIndex",
+    "FastAPI",
+    "Next.js",
+    "Multi-Agent Systems",
+    "Docker",
+    "PostgreSQL"
+  ],
+  "cta": {
+    "primary": "Download Resume",
+    "secondary": "Get In Touch"
+  }
+}
