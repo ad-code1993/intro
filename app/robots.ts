@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/admin', '/private', '/_next', '/api'],
     },
-    sitemap: 'https://amanuel.dev/sitemap.xml',
+    sitemap: 'https://intro-steel-sigma.vercel.app//sitemap.xml',
   }
 }

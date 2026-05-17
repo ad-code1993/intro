@@ -8,8 +8,8 @@ export const SITE_CONFIG = {
   name: 'Amanuel Demirew',
   title: 'Amanuel Demirew | Full-Stack Engineer & AI Developer',
   description: 'Full-Stack Software Engineer specializing in AI systems, backend architecture, automation, and scalable web applications. Building intelligent software solutions.',
-  url: 'https://amanuel.dev',
-  ogImage: 'https://amanuel.dev/og-image.jpg',
+  url: 'https://intro-steel-sigma.vercel.app/',
+  ogImage: 'https://intro-steel-sigma.vercel.app//og-image.jpg',
   twitterHandle: '@amanuel_dev',
   keywords: [
     'Full-Stack Developer',
