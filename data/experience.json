@@ -6,7 +6,7 @@
     {
       "company": "Misikir",
       "role": "Backend Lead",
-      "period": "Sep 2025 – Present",
+      "period": "Sep 2025 – Nov 2025",
       "location": "Addis Ababa, Ethiopia",
       "description": [
         "Leading backend development and architecture decisions",
@@ -20,7 +20,7 @@
     {
       "company": "iCog Labs",
       "role": "Technical Intern",
-      "period": "Oct 2024 – Present",
+      "period": "Oct 2024 – Jul 2025",
       "location": "Addis Ababa, Ethiopia",
       "description": [
         "Improved ML model predictive accuracy by 25%",
@@ -29,7 +29,7 @@
         "Collaborated on research projects involving NLP and computer vision"
       ],
       "technologies": ["Python", "SQL", "LangChain", "Machine Learning", "NLP"],
-      "current": true
+      "current": false
     }
   ]
 }
